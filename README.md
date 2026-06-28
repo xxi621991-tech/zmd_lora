@@ -4,6 +4,8 @@
 
 模型：flux-2-klein-4b-fp8
 数据集: 21张
+工具 打标工具:1.WD14 Tagger 2.BooruDatasetTagManager
+     训练工具:ai_toolkit
 
 ## loss曲线
 <img width="1675" height="646" alt="image" src="https://github.com/user-attachments/assets/8ea5c823-9335-4435-86d9-b2cafaf0845c" />
